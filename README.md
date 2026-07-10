@@ -1,18 +1,19 @@
-# cloudflare-r2-api
+# cloudflare-r2 API
 
-Sovereign HTTP proxy for **Cloudflare R2** · exposes SDK methods over REST.
+> Sovereign wrapper for target · real bindings
 
-## Endpoints
-- `GET /` — metadata + available methods
-- `GET /health` — health check
-- `POST /call/:method` — invoke SDK method with JSON body as params
+## Install
 
-## Env
-`CLOUDFLARE_R2_API_KEY` required.
-
-## Run
-```bash
-npm install && npm start
+```
+npm install @ai-native-solutions/cloudflare-r2-api
 ```
 
-MIT · AI-Native Solutions estate.
+## Links
+
+- FallMarket listing: https://sjgant80-hub.github.io/fallmarket/listing.html?id=cloudflare-r2-api
+- Source: https://github.com/sjgant80-hub/cloudflare-r2-api
+
+
+## License
+
+MIT · Copyright 2026 AI-Native Solutions · https://ai-nativesolutions.com
